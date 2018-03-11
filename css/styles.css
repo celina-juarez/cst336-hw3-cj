@@ -1,0 +1,63 @@
+body
+{
+    background-image: url("white.jpg");
+    
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 4em;
+    margin-bottom: 0px;
+    width:100%;
+    text-decoration: underline;
+    padding-bottom: 4px;
+    text-align: center;
+    color: grey;
+}
+h2{
+    font-size: 1.5em;
+    color: black;
+}
+h3{
+    font-size: 1.5em;
+    color: black;
+}
+
+input[type=text] {
+    width: 100%;
+    margin: 8px 0;
+    border: none;
+    background-color: white;
+    color: grey;
+}
+input[type=radio] {
+    border: none;
+    background-color: white;
+    color: grey;
+}
+input[type=number] {
+    width: 100%;
+    margin: 8px 0;
+    border: none;
+    background-color: white;
+    color: grey;
+}
+select {
+    width: 100%;
+    border: none;
+    border-radius: 4px;
+    background-color: white;
+}
+input[type=submit] {
+    background-color: grey;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#d1{
+    color: white;
+    text-align: center;
+    background-color: grey;
+}
